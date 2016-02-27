@@ -1,8 +1,16 @@
 {
   "name": "bpg-arial-caps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BPG Arial Caps Web-Font Package",
-  "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-arial-caps"],
+  "keywords": [
+    "ttf",
+    "woff",
+    "woff2",
+    "svg",
+    "font",
+    "web-font",
+    "bpg-arial-caps"
+  ],
   "main": "css/bpg-arial-caps.css",
   "homepage": "https://github.com/web-fonts/bpg-arial-caps",
   "author": "Lado Lomidze <lado.lomidze@gmail.com>",
@@ -18,6 +26,6 @@
     {
       "type": "MIT",
       "url": "http://opensource.org/licenses/MIT"
-   }
+    }
   ]
 }
