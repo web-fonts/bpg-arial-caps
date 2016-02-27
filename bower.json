@@ -1,7 +1,7 @@
 {
   "name": "bpg-arial-caps",
   "description": "BPG Arial Caps Web-Font Package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-arial-caps"],
   "main": [
     "css/bpg-arial-caps.css"
